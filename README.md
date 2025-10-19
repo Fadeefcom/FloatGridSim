@@ -236,4 +236,5 @@ dotnet clean && dotnet build -c Release && dotnet run -c Release
 ```
 
 ## Видео-демонстрация
-<video src="demo.mp4" controls width="720"></video>
+https://github.com/user-attachments/assets/81d0b0ff-33e7-46c6-8d59-d6e895daff84
+
