@@ -1,4 +1,6 @@
-﻿namespace FloatGridSim.Strategy;
+﻿using System;
+
+namespace FloatGridSim.Strategy;
 
 public sealed class GreedyChaseStrategy : IActorStrategy
 {
