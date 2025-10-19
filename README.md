@@ -8,6 +8,7 @@
 ### Быстрый старт
 Проверка установки:
 ```bash
+cd FloatGridSim
 dotnet --info
 dotnet restore && dotnet build -c Release && dotnet run -c Release
 ```
