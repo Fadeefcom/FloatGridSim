@@ -236,6 +236,4 @@ dotnet clean && dotnet build -c Release && dotnet run -c Release
 ```
 
 ## Видео-демонстрация
-```
-[Видео-демонстрация →] (demo.mp4)
-```
+<video src="demo.mp4" controls width="720"></video>
